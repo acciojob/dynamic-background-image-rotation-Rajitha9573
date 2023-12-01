@@ -4,6 +4,6 @@ img{
 }
 @media screen and (min-width: 480px) {
   img {
-    background-img: url("https://photovideocreative.com/wordpress/wp-content/uploads/2017/11/Portrait-en-orientation-portrait.jpg");
+    background: url('https://photovideocreative.com/wordpress/wp-content/uploads/2017/11/Portrait-en-orientation-portrait.jpg');
   }
 }
